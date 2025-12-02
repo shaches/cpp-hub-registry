@@ -10,7 +10,6 @@ The registry currently contains the following templates:
 
 | ID | Name | Description | Build System |
 | :--- | :--- | :--- | :--- |
-| `console-app-starter` | **Console App Starter** | A small, modern CMake-based C++ console application with optional tests. | `cmake` |
 | `fmt-console-pm` | **fmt Console App (PM-selectable)** | Console app starter using `fmt`, with selectable package manager. | `cmake` |
 
 ## Registry Structure
@@ -35,7 +34,7 @@ Each entry in the `templates` object requires the following fields:
   "id": "console-app-starter",
   "name": "Console App Starter",
   "description": "A small, modern CMake-based C++ console application with optional tests.",
-  "url": "[https://github.com/shaches/console-app-starter.git](https://github.com/shaches/console-app-starter.git)",
+  "url": "https://github.com/shaches/fmt-console-pm.git",
   "tags": ["console", "cmake", "starter"],
   "build_system": "cmake"
 }

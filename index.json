@@ -1,14 +1,6 @@
 {
   "registry_name": "Official C++ Templates",
   "templates": {
-    "console-app-starter": {
-      "id": "console-app-starter",
-      "name": "Console App Starter",
-      "description": "A small, modern CMake-based C++ console application with optional tests.",
-      "url": "https://github.com/shaches/console-app-starter.git",
-      "tags": ["console", "cmake", "starter"],
-      "build_system": "cmake"
-    },
     "fmt-console-pm": {
       "id": "fmt-console-pm",
       "name": "fmt Console App (PM-selectable)",
